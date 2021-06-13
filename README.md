@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ingmar-moust
-- 👀 I’m interested in Data Science, AI and how to apply it to Organizational Learning
+- 👀 I’m interested in Data Science, AI and how it can improve the performance of your organisation
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me? Try LinkedIn
